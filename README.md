@@ -6,6 +6,3 @@ O desafio desse exercício foi replicar o site **Freelancer**(https://blackrockd
 
 
 ![Freelancer Website](docs/fullpage.png)
-
-Esse repositório contém os arquivos HTML e CSS replicando o site, como também as imagens utilizadas na construção dessa página. Os ícones das redes sociais e do botão de download foram retirados de: [Font Awesome](http://fontawesome.io/).
-
