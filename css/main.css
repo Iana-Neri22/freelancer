@@ -61,7 +61,7 @@ body{
   font-family: Lato;
 }
 
-.portfolio{
+.white-section{
   color: #2c3e50;
   font-size: 45px;
   font-weight: bold;
@@ -84,4 +84,26 @@ padding-bottom: 85px;
  width: 30%;
  margin: 0;
  margin-top: 35px;
+}
+
+.about-flexContainer {
+  display: flex;
+}
+.flexSpaceAround {
+  justify-content: center;
+}
+.subContainer {
+  width: 80%;
+  margin: 0 auto;
+}
+.coluna {
+  width: 28%;
+  font-size: 22px;
+  padding: 20px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+.about {
+  font-size: 43px;
 }
